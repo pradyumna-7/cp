@@ -1,4 +1,4 @@
-/*In a school, the students are given an array of strings words[]. Students have 
+In a school, the students are given an array of strings words[]. Students have 
 to find the longest string in words[] such that every prefix of it is also in words.</br>
 
 For example, let words = ["a", "app", "ap","appl", "apply"]. The string "apply" </br>
