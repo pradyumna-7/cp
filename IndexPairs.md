@@ -4,28 +4,28 @@ Can you help Barnaby find all his favorite words and their starting and ending s
 
 Example 1:
 ----------
-input= 
-thestoryofleetcodeandme
-story fleet leetcode
+input= </br>
+thestoryofleetcodeandme</br>
+story fleet leetcode</br>
 
-Output=
-3 7
-9 13 
-10 17
+Output=</br>
+3 7</br>
+9 13 </br>
+10 17</br>
 
 Example 2:
 ----------
-input= 
-ababa
-aba ab
-output=
-0 1 
-0 2 
-2 3
-2 4
+input= </br>
+ababa</br>
+aba ab</br>
+output=</br>
+0 1 </br>
+0 2 </br>
+2 3</br>
+2 4</br>
 
-Explanation: 
-Notice that matches can overlap, see "aba" is found in [0,2] and [2,4].
+Explanation: </br>
+Notice that matches can overlap, see "aba" is found in [0,2] and [2,4].</br>
 
 Note: Input formate is string and followed by substring ,
       Output print starting and ending index pairs.
